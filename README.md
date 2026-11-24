@@ -1,8 +1,7 @@
-### Hi, I'm BeSnipeZ
+### Hi, I'm Sebastian (BeSnipeZ)
 
 Heading into automotive engineering. Currently an intern at **Ingenics AG**
-(Business Unit Mobility, factory and production planning). Looking for a dual
-study program in vehicle engineering or computer engineering.
+(Business Unit Mobility, factory and production planning).
 
 I learn by building things that have to keep running on their own.
 
@@ -25,3 +24,5 @@ I learn by building things that have to keep running on their own.
 
 **Tools:** C++ · C# · Python · Arduino / embedded · Git · Linux (Raspberry Pi,
 systemd) · AI-assisted development with Claude Code and MCP
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/sebastian-fischer-ulm/)
