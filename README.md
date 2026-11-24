@@ -18,6 +18,10 @@ I learn by building things that have to keep running on their own.
 - **[liquiditaet](https://github.com/BeSnipeZ/liquiditaet)** (public) – reads
   the open TradingView chart over the Chrome DevTools Protocol and computes
   liquidity levels with their live status. Tested logic, no network in tests.
+- **[homelab-template](https://github.com/BeSnipeZ/homelab-template)** (public) –
+  the generic core of my home setup: zero-dependency Node dashboard, Uptime Kuma
+  push monitors, Tailscale-only access, rolling backups and Telegram alerts,
+  installed by one script on the Pi and one on Windows.
 
 **Tools:** C++ · C# · Python · Arduino / embedded · Git · Linux (Raspberry Pi,
 systemd) · AI-assisted development with Claude Code and MCP
