@@ -21,6 +21,11 @@ I learn by building things that have to keep running on their own.
   the generic core of my home setup: zero-dependency Node dashboard, Uptime Kuma
   push monitors, Tailscale-only access, rolling backups and Telegram alerts,
   installed by one script on the Pi and one on Windows.
+- **[sonar-autoprofile](https://github.com/BeSnipeZ/sonar-autoprofile)** (public) –
+  switches SteelSeries Sonar EQ profiles between headphones and speakers
+  through Sonar's local API.
+- **[geizhals-watch](https://github.com/BeSnipeZ/geizhals-watch)** (public) –
+  price drop alerts for geizhals.de via Telegram, one file, no dependencies.
 
 **Tools:** C++ · C# · Python · Arduino / embedded · Git · Linux (Raspberry Pi,
 systemd) · AI-assisted development with Claude Code and MCP
