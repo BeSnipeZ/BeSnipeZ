@@ -14,7 +14,7 @@ I learn by building things that have to keep running on their own.
   training and weight, served from the Pi over Tailscale.
 - **Home and desk automation** – voice assistant that drives keyboard, fan
   and light-bar RGB across several vendor SDKs, plus monitoring with Uptime Kuma.
-- **[liquiditaet](https://github.com/BeSnipeZ/liquiditaet)** (public) – reads
+- **[liquidity](https://github.com/BeSnipeZ/liquidity)** (public) – reads
   the open TradingView chart over the Chrome DevTools Protocol and computes
   liquidity levels with their live status. Tested logic, no network in tests.
 - **[homelab-template](https://github.com/BeSnipeZ/homelab-template)** (public) –
